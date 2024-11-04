@@ -80,5 +80,4 @@ private fun PriceChangePreview() {
             )
         )
     }
-
 }
